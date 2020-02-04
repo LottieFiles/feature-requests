@@ -1,4 +1,4 @@
-# feature-requests
+# Feature Requests
 Feature requests, enhancements and anything you'd like to see in LottieFiles.com! 
 
 **What is Lottie?**
