@@ -1,10 +1,8 @@
 # Feature Requests
-Feature requests, enhancements and anything you'd like to see in LottieFiles.com! 
+Feature requests, enhancements and anything you'd like to see in [LottieFiles.com](https://lottiefiles.com)! 
 
 **What is Lottie?**
-A Lottie is a JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
-
-[Read More](https://lottiefiles.com/what-is-lottie)
+A Lottie is a JSON-based animation file format that enables designers to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation. [Read More](https://lottiefiles.com/what-is-lottie)
 
 **What is LottieFiles?**
 
